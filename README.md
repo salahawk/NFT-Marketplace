@@ -88,7 +88,7 @@ To run the application you'll need:
 * [Truffle](https://www.trufflesuite.com/)
 * [Ganache](https://www.trufflesuite.com/ganache)
 * Clone the repository:
-  * ```$ git clone https://github.com/BravoNatalie/NFT-Marketplace.git ```
+  * ```$ git clone https://github.com/salahawk/NFT-Marketplace.git ```
 
 
 Now go to project folder and run:
@@ -131,18 +131,18 @@ There are some things to be done in the project:
 
 ## :page_with_curl: License
 
-This project is under the **MIT license**. See the [LICENSE](https://github.com/BravoNatalie/NFT-Marketplace/blob/master/LICENSE) for more information.
+This project is under the **MIT license**. See the [LICENSE](https://github.com/salahawk/NFT-Marketplace/blob/master/LICENSE) for more information.
 
 
 ## :mailbox_with_mail: Get in touch!
 
 <p align="center">
-<a href="https://www.linkedin.com/in/nataliebravo/" target="_blank" >
-  <img alt="Linkedin - Natalie Bravo" src="https://img.shields.io/badge/Linkedin--%23F8952D?style=social&logo=linkedin">
+<a href="https://www.linkedin.com/in/tyler-mcniff/" target="_blank" >
+  <img alt="Linkedin - Tyler McNiff" src="https://img.shields.io/badge/Linkedin--%23F8952D?style=social&logo=linkedin">
 </a>
-<a href="mailto:natalie.bravo@ice.ufjf.br" target="_blank" >
-  <img alt="Email - Natalie Bravo" src="https://img.shields.io/badge/Email--%23F8952D?style=social&logo=gmail">
+<a href="mailto:tylermcguy@gmail.com" target="_blank" >
+  <img alt="Email - @salahawk" src="https://img.shields.io/badge/Email--%23F8952D?style=social&logo=gmail">
 </a> 
 <br/>
-  Made with :coffee: and ❤️ by <b>Natalie Bravo</b>.
+  Made with :coffee: and ❤️ by <b>Tyler McNiff (@salahawk)</b>.
 <p/>
